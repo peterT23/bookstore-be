@@ -3,17 +3,6 @@
   "favorites": [],
   "books": [
     {
-      "author": "Chinua Achebe",
-      "country": "Nigeria",
-      "imageLink": "images/things-fall-apart.jpg",
-      "language": "English",
-      "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
-      "pages": 209,
-      "title": "Things Fall Apart",
-      "year": 1958,
-      "id": "8F627C92410"
-    },
-    {
       "author": "Hans Christian Andersen",
       "country": "Denmark",
       "imageLink": "images/fairy-tales.jpg",
@@ -1101,6 +1090,16 @@
       "title": "Memoirs of Hadrian",
       "year": 1951,
       "id": "C04C739C7599"
+    },
+    {
+      "author": "Tuan Hoang",
+      "country": "Viet Nam",
+      "imageLink": "images/things-fall",
+      "language": "Vietnamese",
+      "pages": 209,
+      "title": "Things Fall Apart",
+      "year": 1958,
+      "id": "0e10e4ef"
     }
   ]
 }

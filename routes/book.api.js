@@ -195,6 +195,7 @@ router.delete("/:bookId", (req, res, next) => {
     //delete processing logic
     let db = fs.readFileSync("db.json", "utf-8");
     db = JSON.parse(db);
+    const { books } = db;
     //find book by id
     const targetIndex = books.findIndex((book) => bookId === book.id);
     if (targetIndex < 0) {
